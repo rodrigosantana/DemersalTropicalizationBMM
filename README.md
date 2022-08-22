@@ -41,6 +41,14 @@ Filename	Citation of child dataset
 
 *Thermal_Species_Affinities_BMM.tab* - Perez, José Angel Alvarez; Sant'Ana, Rodrigo (2022): Thermal preference/affinity of demersal species caught in the Brazilian Meridional Margin in the period 2000-2019. https://doi.pangaea.de/10.1594/PANGAEA.946399
 
+## R Code
+
+*script_MTC_analysis_ver00.R* - for the implementation of the linear models and time-lag linear models;
+
+*script_Multivariate_analysis_ver00.R* - for the implementation of the multivariated analysis (TBI, Beta Diversity).
+
+Important: Some analysis are based on permutation process, thus, some results could present small differences between new runs and those presented in the manuscript. 
+
 ## Licence
 
 <a rel="license"

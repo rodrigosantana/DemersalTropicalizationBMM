@@ -38,9 +38,6 @@ library(viridis)
 library(extrafont)
 library(hnp)
 
-########################################################################
-######@> Configurando e preparando o R...
-
 ######@> Importing fonts...
 loadfonts(device = "postscript")
 
