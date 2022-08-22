@@ -1,0 +1,48 @@
+/* DATA DESCRIPTION:
+Citation:	Perez, José Angel Alvarez; Sant'Ana, Rodrigo (2022): Environmental, oceanographic and fisheries strategy time series (2000-2019) for demersal species in the Brazilian Meridional Margin. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.946391 (dataset in review), 
+	In: Perez, JAA; Sant'Ana, R (2022): Time series of catch composition, mean catch temperature and thermal preference of demersal species in the Brazilian Meridional Margin (2000-2019). PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.946402 (dataset in review)
+Abstract:	The 'Mean Temperature of Catch (MTC)' was estimated for each year of the time series, as proposed by Cheung et al. (2013). This variable is expressed in degrees Celsius. 'Sea Bottom Temperature (SBT)' was derived from estimates provided by the high-resolution ocean general circulation INALT20 model (Schwarzkopf et al., 2019) for the study period (2000-2019) and was calculated by averaging the temperatures over 0.25° x 0.25° grid cells of the BMM and a water column up to 50 m above the seafloor. This variable is expressed is degrees Celsius. 'Annual volume transports of the Brazil-Malvinas confluence (BCt)' was extracted and compiled from Artana et al. (2019). This index was estimated for the period between 2000 and 2017. More detailed information about this index can be accessed in Artana et al. (2019). This variable expressed in Sverdrups (Sv). 'Simpson diversity index (Dm)' express the diversity of demersal fishing métiers (i.e. combination of target species, gear, and time of the year) operating each year of the time series, as determined by a process of classification of individual fishing trips. Catches of each métier operating during each year of time series summed and used to calculate Dm using the Simpson species diversity index formulation.
+Keyword(s):	Catch composition; climate change; SW Atlantic
+Further details:	Artana, Camila; Provost, Christine; Lellouche, Jean-Michel; Rio, Marie-Hélène; Ferrari, Ramiro; Sennéchael, Nathalie (2019): The Malvinas Current at the Confluence With the Brazil Current: Inferences From 25 Years of Mercator Ocean Reanalysis. Journal of Geophysical Research: Oceans, 124(10), 7178-7200, https://doi.org/10.1029/2019JC015289
+	Cheung, William W L; Watson, Reg; Pauly, Daniel (2013): Signature of ocean warming in global fisheries catch. Nature, 497(7449), 365-368, https://doi.org/10.1038/nature12156
+	Schwarzkopf, Franziska; Biastoch, Arne; Böning, Claus W; Chanut, Jérôme; Durgadoo, Jonathan V; Getzlaff, Klaus; Harlaß, Jan; Riek, Jan K; Roth, Christina; Scheinert, Markus; Schubert, R (2019): The INALT family – a set of high-resolution nests for the Agulhas Current system within global NEMO ocean/sea-ice configurations. Geoscientific Model Development, 12(7), 3329-3355, https://doi.org/10.5194/gmd-12-3329-2019
+Project(s):	Integrated Assessment of Atlantic Marine Ecosystems in Space and Time (iAtlantic) (URI: http://www.iatlantic.eu/)
+Funding:	Horizon 2020 (H2020) (URI: https://ec.europa.eu/programmes/horizon2020/), grant/award no. 818123: Integrated Assessment of Atlantic Marine Ecosystems in Space and Time (URI: https://cordis.europa.eu/projects/818123)
+Coverage:	MEDIAN LATITUDE: -27.500000 * MEDIAN LONGITUDE: -47.208300 * SOUTH-BOUND LATITUDE: -34.000000 * WEST-BOUND LONGITUDE: -53.583300 * NORTH-BOUND LATITUDE: -21.000000 * EAST-BOUND LONGITUDE: -40.833300
+	DATE/TIME START: 2000-01-01T00:00:00 * DATE/TIME END: 2019-01-01T00:00:00
+	MINIMUM ELEVATION: -500.0 m * MAXIMUM ELEVATION: 0.0 m
+Event(s):	Brazilian_Demersal_Fisheries_Time_Series * LATITUDE START: -21.000000 * LONGITUDE START: -40.833300 * LATITUDE END: -34.000000 * LONGITUDE END: -53.583300 * DATE/TIME START: 2000-01-01T00:00:00 * DATE/TIME END: 2019-12-31T00:00:00 * ELEVATION START: 0.0 m * ELEVATION END: -500.0 m * LOCATION: Southwest Atlantic * METHOD/DEVICE: Fishing port survey * COMMENT: The sampling (fishing) area is defined by the Brazilian Meridional Margin, from 21°S to the southern border of Brazilian EEZ (34°S) and from the coastal areas down to 500 m depths.
+Comment:	Compilation of annual environmental (Sea Bottom Temperature), oceanographic (Annual volume transport of the Brazil-Malvinas confluence) and fisheries strategy index (Simpson diversity index) time-series in the Brazilian Meridional Margin.
+Parameter(s):	DATE/TIME (Date/Time) * GEOCODE * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310)
+	Temperature, water [°C] (Temp) * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310) * COMMENT: Mean temperature of catch (MTC)
+	Bottom water temperature [°C] (BWT) * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310) * COMMENT: Sea bottom temperature (SBT)
+	Transport, volumetric [Sv] (Trans vol) * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310) * METHOD/DEVICE: INHALT (General ocean circulation model), Schwarzkopf et al. 2019 * COMMENT: Brazil-Malvinas confluence
+	Simpson index of diversity (Simpson I) * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310) * COMMENT: Dm
+	- (-) * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310) * COMMENT: Anom_MTC
+	- (-) * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310) * COMMENT: Anom_SBT
+	- (-) * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310) * COMMENT: Anom_BCt
+	- (-) * PI: Perez, José Angel Alvarez (angel.perez@univali.br, http://lattes.cnpq.br/0756846936338310) * COMMENT: Anom_Dm
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels) * Processing Level: PANGAEA data processing level 3 (URI: https://wiki.pangaea.de/wiki/Processing_levels#PANGAEA_data_processing_level_3)
+Size:	156 data points
+*/
+Date/Time	Temp [°C] (Mean temperature of catch (MTC))	BWT [°C] (Sea bottom temperature (SBT))	Trans vol [Sv] (Brazil-Malvinas confluence)	Simpson I (Dm)	- (Anom_MTC)	- (Anom_SBT)	- (Anom_BCt)	- (Anom_Dm)
+2000	20.57	14.968	-21.374	0.793	0.980	0.976	0.870	1.000
+2001	20.80	15.270	-19.976	0.783	0.992	0.995	0.813	0.988
+2002	20.64	15.304	-26.337	0.798	0.984	0.998	1.072	1.006
+2003	20.66	15.439	-19.060	0.821	0.985	1.006	0.776	1.035
+2004	20.56	15.250	-23.012	0.824	0.980	0.994	0.937	1.039
+2005	21.08	15.422	-24.988	0.818	1.005	1.005	1.017	1.031
+2006	21.44	15.447	-25.759	0.822	1.022	1.007	1.049	1.036
+2007	21.12	15.401	-24.554	0.817	1.007	1.004	1.000	1.030
+2008	20.39	15.315	-25.759	0.828	0.972	0.998	1.049	1.043
+2009	20.36	15.397	-25.470	0.814	0.970	1.004	1.037	1.026
+2010	21.14	15.405	-22.723	0.810	1.008	1.004	0.925	1.021
+2011	20.89	15.018	-21.181	0.793	0.996	0.979	0.862	1.000
+2012	20.58	15.079	-25.422	0.776	0.981	0.983	1.035	0.978
+2013	20.07	15.249	-25.904	0.704	0.957	0.994	1.055	0.887
+2014	20.85	15.282	-30.096	0.735	0.994	0.996	1.225	0.926
+2015	20.79	15.466	-28.892	0.762	0.991	1.008	1.176	0.961
+2016	20.99	15.299	-28.699	0.835	1.001	0.997	1.168	1.053
+2017	21.75	15.417	-22.964	0.817	1.037	1.005	0.935	1.030
+2018	22.32	15.583		0.777	1.064	1.016		0.979
+2019	22.60	15.786		0.739	1.077	1.029		0.931
