@@ -40,3 +40,13 @@ Filename	Citation of child dataset
 *Environmental_Oceanographic_Fisheries_Time_Series_BMM.tab* - Perez, José Angel Alvarez; Sant'Ana, Rodrigo (2022): Environmental, oceanographic and fisheries strategy time series (2000-2019) for demersal species in the Brazilian Meridional Margin. https://doi.pangaea.de/10.1594/PANGAEA.946391
 
 *Thermal_Species_Affinities_BMM.tab* - Perez, José Angel Alvarez; Sant'Ana, Rodrigo (2022): Thermal preference/affinity of demersal species caught in the Brazilian Meridional Margin in the period 2000-2019. https://doi.pangaea.de/10.1594/PANGAEA.946399
+
+## Licence
+
+<a rel="license"
+href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+alt="Licença Creative Commons" style="border-width:0"
+src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br
+/>This work is licensed under a <a rel="license"
+href="https://creativecommons.org/licenses/by-sa/4.0/deed">Creative
+Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a>.
